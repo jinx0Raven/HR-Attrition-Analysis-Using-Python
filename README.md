@@ -1,28 +1,21 @@
-# HR-Attrition-Analysis
+HR Attrition Analysis
 
-Overview:
+Overview
 This repository contains a Python notebook analyzing employee attrition using the IBM HR Analytics dataset from Kaggle. The analysis explores factors like job role, income, overtime, and department to identify trends and correlations with attrition.
 
-Files:
+Files
 
-HR_Attrition_Analysis.ipynb – Kaggle notebook with data exploration, visualization, and correlation analysis
+HR_Attrition_Analysis.ipynb – Python notebook with data exploration, visualization, and correlation analysis
 
-Usage:
+You can also view the notebook directly on Kaggle here
+.
 
-You can browse the Kaggle Notebook directly and see the Inputs/Outputs by clicking [here](https://www.kaggle.com/code/jinxraven/jinx-s-ibm-hr-worksheet)
-Or
-Download the notebook in file 2.
+Key Insights
 
-Open the notebook in Jupyter or Google Colab or Kaggle
+Overtime is strongly correlated with attrition. Employees working overtime are more likely to leave.
 
-Run all cells to reproduce analysis and visualizations
+Certain job roles (Sales Representative, Laboratory Technician, HR) show higher turnover.
 
-Key Insights I found:
+Lower salary is linked with higher attrition.
 
-Overtime is strongly correlated with attrition
-
-Certain job roles (Sales Representative, Technician, HR) show higher turnover
-
-Lower salary is linked with higher attrition
-
-Heatmap shows correlations between attrition and numeric features like YearsInCurrentRole, JobLevel, TotalWorkingYears
+Correlation heatmap highlights relationships between attrition and numeric features like YearsInCurrentRole, JobLevel, and TotalWorkingYears.
