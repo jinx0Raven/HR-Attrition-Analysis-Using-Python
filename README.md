@@ -5,19 +5,19 @@ This repository contains a Python notebook analyzing employee attrition using th
 
 Files:
 
-HR_Attrition_Analysis.ipynb – Jupyter notebook with data exploration, visualization, and correlation analysis
-
-data/WA_Fn-UseC_-HR-Employee-Attrition.csv – dataset (optional, can instruct to download from Kaggle)
+HR_Attrition_Analysis.ipynb – Kaggle notebook with data exploration, visualization, and correlation analysis
 
 Usage:
 
-Download the dataset from Kaggle (or use data/ if included)
+You can browse the Kaggle Notebook directly and see the Inputs/Outputs by clicking [here](https://www.kaggle.com/code/jinxraven/jinx-s-ibm-hr-worksheet)
+Or
+Download the notebook in file 2.
 
-Open the notebook in Jupyter or Google Colab
+Open the notebook in Jupyter or Google Colab or Kaggle
 
 Run all cells to reproduce analysis and visualizations
 
-Key Insights:
+Key Insights I found:
 
 Overtime is strongly correlated with attrition
 
