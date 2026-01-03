@@ -1,15 +1,35 @@
-# HR Attrition Analysis
+# HR ATTRITION ANALYSIS USING PYTHON
 
-Overview
-This repository contains a Python notebook analyzing employee attrition using the IBM HR Analytics dataset from Kaggle. The analysis explores factors like job role, income, overtime, and department to identify trends and correlations with attrition.
+## Overview
+- Exploratory data analysis project focused on employee attrition
+- Uses the IBM HR Analytics dataset
+- Aims to identify patterns and drivers of employee turnover
 
-Files
-- HR_Attrition_Analysis.ipynb – Python notebook with data exploration, visualization, and correlation analysis
+## Analysis Objectives
+- Understand key factors influencing attrition
+- Analyze relationships between attrition and work conditions
+- Support HR retention and workforce planning decisions
 
-You can also view the notebook directly on Kaggle [here](https://www.kaggle.com/code/jinxraven/jinx-s-ibm-hr-worksheet).
+## Key Insights
+- Overtime shows a strong correlation with higher attrition
+- Lower income levels are linked with increased turnover
+- Certain job roles experience consistently higher attrition
+- Experience-related variables influence attrition behavior
 
-Key Insights
-- Overtime is strongly correlated with attrition. Employees working overtime are more likely to leave.
-- Certain job roles (Sales Representative, Laboratory Technician, HR) show higher turnover.
-- Lower salary is linked with higher attrition.
-- Correlation heatmap highlights relationships between attrition and numeric features like YearsInCurrentRole, JobLevel, and TotalWorkingYears.
+## Analysis Workflow
+- Data loading and cleaning
+- Exploratory data analysis
+- Visualization of distributions and trends
+- Correlation analysis and interpretation
+
+## Skills Demonstrated
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Statistical correlation analysis
+- Business interpretation of analytical results
+
+## Tools
+- Python
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Jupyter Notebook
