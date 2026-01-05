@@ -1,5 +1,5 @@
 # HR ATTRITION ANALYSIS USING PYTHON
-
+##You can view the notebook live by clicking [here](https://www.kaggle.com/code/jinxraven/jinx-s-ibm-hr-worksheet)
 ## Overview
 - Exploratory data analysis project focused on employee attrition
 - Uses the IBM HR Analytics dataset
